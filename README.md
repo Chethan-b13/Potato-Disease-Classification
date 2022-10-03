@@ -16,7 +16,7 @@ Potato is one of the staple foods that widely consumed, becoming the 4th staple 
 <img src="/Saved_Models/Classes.jpg" alt="drawing" width="500px" height="250px"/>
 
 ## Demo
-
+![Demo Video](https://github.com/chethancheths/Potato-Disease-Classification/blob/main/Saved_Models/ModelDemo.gif)
 
 
 ## References
