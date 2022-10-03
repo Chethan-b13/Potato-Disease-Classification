@@ -13,7 +13,10 @@ Potato is one of the staple foods that widely consumed, becoming the 4th staple 
 
 
 ## Leaf Disease classes 
-![Classes Image](/Saved_Models/Classes.jpg =100x20)
+<img src="/Saved_Models/Classes.jpg" alt="drawing" width="500px" height="250px"/>
+
+## Demo
+
 
 
 ## References
